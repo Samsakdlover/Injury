@@ -1,160 +1,160 @@
-Injury Type,Exact Average Games Lost,BBGM Numerical Frequency
-Lateral Ankle Sprain (Grade 1),5,1800
-Lateral Ankle Sprain (Grade 2),14,1650
-Lateral Ankle Sprain (Grade 3),30,1300
-Medial Ankle Sprain,10,1400
-High Ankle Sprain,25,1100
-Ankle Impingement,10,400
-Peroneal Tendonitis,10,900
-Peroneal Tendon Tear,40,200
-Posterior Tibial Tendonitis,20,600
-Posterior Tibial Tendon Dysfunction,45,150
-Ankle Fracture (Non-Surgical),42,250
-Ankle Fracture (Surgical Repair),60,120
-Ankle Ligament Reconstruction,70,80
-Plantar Fasciitis,15,700
-Plantar Fasciitis (Severe/Chronic),30,300
-Metatarsal Stress Fracture,30,400
-Navicular Stress Fracture,45,200
-Lisfranc Injury (Sprain),35,250
-Lisfranc Injury (Fracture/Surgical Fix),60,100
-Turf Toe (Grade 1),3,900
-Turf Toe (Grade 2),10,600
-Turf Toe (Grade 3),21,300
-Sesamoiditis,20,400
+name,frequency,games
+Lateral Ankle Sprain (Grade 1),1800,5
+Lateral Ankle Sprain (Grade 2),1650,14
+Lateral Ankle Sprain (Grade 3),1300,30
+Medial Ankle Sprain,1400,10
+High Ankle Sprain,1100,25
+Ankle Impingement,400,10
+Peroneal Tendonitis,900,10
+Peroneal Tendon Tear,200,40
+Posterior Tibial Tendonitis,600,20
+Posterior Tibial Tendon Dysfunction,150,45
+Ankle Fracture (Non-Surgical),250,42
+Ankle Fracture (Surgical Repair),120,60
+Ankle Ligament Reconstruction,80,70
+Plantar Fasciitis,700,15
+Plantar Fasciitis (Severe/Chronic),300,30
+Metatarsal Stress Fracture,400,30
+Navicular Stress Fracture,200,45
+Lisfranc Injury (Sprain),250,35
+Lisfranc Injury (Fracture/Surgical Fix),100,60
+Turf Toe (Grade 1),900,3
+Turf Toe (Grade 2),600,10
+Turf Toe (Grade 3),300,21
+Sesamoiditis,400,20
 Hallux Valgus (Bunion) - Post-Surgery,50,50
-Morton's Neuroma,8,200
-ACL Tear (Non-Surgical Rehab - Rare),40,10
-ACL Reconstruction,70,150
-ACL Revision Surgery,90,20
-MCL Sprain (Grade 1),7,1200
-MCL Sprain (Grade 2),18,1000
-MCL Tear (Non-Surgical),30,350
-MCL Reconstruction (Rare),60,30
-LCL Sprain (Grade 1),5,1100
-LCL Sprain (Grade 2),14,900
-LCL Tear (Non-Surgical),25,250
-LCL Reconstruction (Rare),50,20
-PCL Sprain,14,300
-PCL Tear (Non-Surgical Rehab),40,100
-PCL Reconstruction,60,50
-Meniscus Tear (Small, Conservative),10,800
-Meniscus Tear (Surgical Repair),30,450
-Meniscectomy (Partial),15,500
-Meniscus Transplant,70,30
-Patellar Tendonitis,12,900
-Patellar Tendon Rupture (Non-Surgical),60,30
-Patellar Tendon Repair,50,100
-Quadriceps Tendonitis,10,700
-Quadriceps Tendon Rupture,45,60
-Patellofemoral Pain Syndrome,12,950
-Chondromalacia Patellae,10,500
-Knee Bursitis,6,550
-Osteoarthritis (Knee) - Flare-up,7,200
-Microfracture Surgery (Knee),82,20
-Cartilage Restoration Surgery (Knee),60,40
-Hamstring Strain (Grade 1),5,1250
-Hamstring Strain (Grade 2),14,1050
-Hamstring Strain (Grade 3),35,650
-Hamstring Tendon Avulsion Repair,50,40
-Quadriceps Strain (Grade 1),5,1150
-Quadriceps Strain (Grade 2),14,950
-Quadriceps Strain (Grade 3),30,550
-Hip Flexor Strain,10,700
-Adductor Strain (Groin Pull),10,800
-Hip Bursitis,10,500
-Hip Labral Tear (Non-Surgical),15,300
-Hip Labral Repair (Arthroscopic),30,150
-Femoral Stress Fracture,42,50
+Morton's Neuroma,200,8
+ACL Tear (Non-Surgical Rehab - Rare),10,40
+ACL Reconstruction,150,70
+ACL Revision Surgery,20,90
+MCL Sprain (Grade 1),1200,7
+MCL Sprain (Grade 2),1000,18
+MCL Tear (Non-Surgical),350,30
+MCL Reconstruction (Rare),30,60
+LCL Sprain (Grade 1),1100,5
+LCL Sprain (Grade 2),900,14
+LCL Tear (Non-Surgical),250,25
+LCL Reconstruction (Rare),20,50
+PCL Sprain,300,14
+PCL Tear (Non-Surgical Rehab),100,40
+PCL Reconstruction,50,60
+Meniscus Tear (Small, Conservative),800,10
+Meniscus Tear (Surgical Repair),450,30
+Meniscectomy (Partial),500,15
+Meniscus Transplant,30,70
+Patellar Tendonitis,900,12
+Patellar Tendon Rupture (Non-Surgical),30,60
+Patellar Tendon Repair,100,50
+Quadriceps Tendonitis,700,10
+Quadriceps Tendon Rupture,60,45
+Patellofemoral Pain Syndrome,950,12
+Chondromalacia Patellae,500,10
+Knee Bursitis,550,6
+Osteoarthritis (Knee) - Flare-up,200,7
+Microfracture Surgery (Knee),20,82
+Cartilage Restoration Surgery (Knee),40,60
+Hamstring Strain (Grade 1),1250,5
+Hamstring Strain (Grade 2),1050,14
+Hamstring Strain (Grade 3),650,35
+Hamstring Tendon Avulsion Repair,40,50
+Quadriceps Strain (Grade 1),1150,5
+Quadriceps Strain (Grade 2),950,14
+Quadriceps Strain (Grade 3),550,30
+Hip Flexor Strain,700,10
+Adductor Strain (Groin Pull),800,10
+Hip Bursitis,500,10
+Hip Labral Tear (Non-Surgical),300,15
+Hip Labral Repair (Arthroscopic),150,30
+Femoral Stress Fracture,50,42
 Avascular Necrosis (Hip) - Early Stages,20,20
-Avascular Necrosis (Hip) - Post Surgery,82,10
-Calf Strain (Grade 1),5,1000
-Calf Strain (Grade 2),12,800
-Calf Strain (Grade 3),25,400
-Achilles Tendonitis (Chronic),21,300
-Compartment Syndrome (Chronic Exertional),5,200
-Tibial Stress Fracture,30,300
-Fibular Stress Fracture,25,250
-Deep Vein Thrombosis (DVT),60,10
-Lower Back Strain,7,1400
-Lower Back Spasm,3,1500
-Herniated Disc (Conservative),30,300
-Microdiscectomy (Back Surgery),40,100
-Spinal Fusion (Back Surgery),82,30
-Spondylolisthesis (Non-Surgical),10,150
-Core Muscle Strain,7,800
-Rib Stress Fracture,21,80
-Rotator Cuff Tendinitis,14,750
-Rotator Cuff Tear (Partial),30,300
-Rotator Cuff Repair (Arthroscopic),60,120
-Labral Tear (Shoulder - Non-Surgical),15,350
-Labral Repair (Shoulder - Arthroscopic),40,180
-Shoulder Impingement,14,700
-Shoulder Bursitis,10,600
-Shoulder Dislocation (Non-Surgical),20,300
-Shoulder Stabilization Surgery,70,100
-Biceps Tendonitis,10,550
-Biceps Tendon Rupture (Non-Surgical),20,150
-Biceps Tendon Repair,40,80
-AC Joint Sprain,12,650
-AC Joint Separation (Severe - Surgical),40,50
-Lateral Epicondylitis (Tennis Elbow),14,500
-Medial Epicondylitis (Golfer's Elbow),14,400
-Ulnar Collateral Ligament (UCL) Sprain,20,200
-UCL Reconstruction (Tommy John Surgery),82,60
-Carpal Tunnel Syndrome (Non-Surgical),10,350
-Carpal Tunnel Release Surgery,30,150
-Scaphoid Fracture (Non-Surgical),45,150
-Scaphoid Fracture (Surgical Fixation),60,80
-Mallet Finger,4,650
-Jersey Finger (Non-Surgical),8,500
-Jersey Finger (Surgical Repair),21,200
-Wrist Ligament Sprain,6,750
-Trigger Finger (Non-Surgical),5,200
-Trigger Finger Release Surgery,10,80
-Concussion (Mild),5,800
-Concussion (Moderate),14,400
-Concussion (Severe/Post-Concussion Syndrome),40,100
-Orbital Fracture (Surgical Repair),28,40
-Appendectomy,21,20
-Mononucleosis,28,30
-Severe Migraine,3,250
-Whiplash,7,100
-Stinger/Burner (Brachial Plexus Injury),3,150
-Orbital Fracture,21,60
-TMJ (Temporomandibular Joint) Dysfunction,5,100
-Rib Fracture,28,50
-Intercostal Muscle Strain,10,200
-Diaphragmatic Spasm,2,80
-Spleen Injury (Contusion/Laceration),82,5
-Kidney Contusion,14,30
-Humeral Fracture,60,20
-Biceps Tendonitis (Short Head),10,250
-Triceps Tendonitis,10,150
-Radius Fracture,42,70
-Ulna Fracture,42,60
-Forearm Compartment Syndrome (Chronic),5,100
-Bennett's Fracture (Thumb),35,40
-Boxer's Fracture (Metacarpal),28,60
-Gamekeeper's Thumb (UCL Sprain - Hand),21,80
-Swan Neck Deformity (Finger),10,30
-Boutonniere Deformity (Finger),10,40
-Trigger Finger (Hand/Finger),5,120
-Myositis Ossificans (Thigh),28,40
-Femoral Stress Fracture,42,30
-Tibial Plateau Fracture,82,10
-Fibular Head Fracture,21,50
-Deep Vein Thrombosis (DVT - Leg),60,2
-Peroneal Tendon Subluxation,21,60
-Tarsal Tunnel Syndrome,14,70
-Lisfranc Fracture (More Severe),42,30
-Hallux Rigidus (Big Toe Arthritis),10,80
-Posterior Tibial Tendon Rupture,50,20
-Peroneal Tendon Rupture (Lower Leg),40,30
-Dehydration (Severe),2,200
-Heat Exhaustion,3,150
-Heat Stroke,82,5
-Rhabdomyolysis,21,10
-Migraine (Severe - Recurring),3,100
-Vertigo,3,80
-Allergic Reaction (Severe),1,50
+Avascular Necrosis (Hip) - Post Surgery,10,82
+Calf Strain (Grade 1),1000,5
+Calf Strain (Grade 2),800,12
+Calf Strain (Grade 3),400,25
+Achilles Tendonitis (Chronic),300,21
+Compartment Syndrome (Chronic Exertional),200,5
+Tibial Stress Fracture,300,30
+Fibular Stress Fracture,250,25
+Deep Vein Thrombosis (DVT),10,60
+Lower Back Strain,1400,7
+Lower Back Spasm,1500,3
+Herniated Disc (Conservative),300,30
+Microdiscectomy (Back Surgery),100,40
+Spinal Fusion (Back Surgery),30,82
+Spondylolisthesis (Non-Surgical),150,10
+Core Muscle Strain,800,7
+Rib Stress Fracture,80,21
+Rotator Cuff Tendinitis,750,14
+Rotator Cuff Tear (Partial),300,30
+Rotator Cuff Repair (Arthroscopic),120,60
+Labral Tear (Shoulder - Non-Surgical),350,15
+Labral Repair (Shoulder - Arthroscopic),180,40
+Shoulder Impingement,700,14
+Shoulder Bursitis,600,10
+Shoulder Dislocation (Non-Surgical),300,20
+Shoulder Stabilization Surgery,100,70
+Biceps Tendonitis,550,10
+Biceps Tendon Rupture (Non-Surgical),150,20
+Biceps Tendon Repair,80,40
+AC Joint Sprain,650,12
+AC Joint Separation (Severe - Surgical),50,40
+Lateral Epicondylitis (Tennis Elbow),500,14
+Medial Epicondylitis (Golfer's Elbow),400,14
+Ulnar Collateral Ligament (UCL) Sprain,200,20
+UCL Reconstruction (Tommy John Surgery),60,82
+Carpal Tunnel Syndrome (Non-Surgical),350,10
+Carpal Tunnel Release Surgery,150,30
+Scaphoid Fracture (Non-Surgical),150,45
+Scaphoid Fracture (Surgical Fixation),80,60
+Mallet Finger,650,4
+Jersey Finger (Non-Surgical),500,8
+Jersey Finger (Surgical Repair),200,21
+Wrist Ligament Sprain,750,6
+Trigger Finger (Non-Surgical),200,5
+Trigger Finger Release Surgery,80,10
+Concussion (Mild),800,5
+Concussion (Moderate),400,14
+Concussion (Severe/Post-Concussion Syndrome),100,40
+Orbital Fracture (Surgical Repair),40,28
+Appendectomy,20,21
+Mononucleosis,30,28
+Severe Migraine,250,3
+Whiplash,100,7
+Stinger/Burner (Brachial Plexus Injury),150,3
+Orbital Fracture,60,21
+TMJ (Temporomandibular Joint) Dysfunction,100,5
+Rib Fracture,50,28
+Intercostal Muscle Strain,200,10
+Diaphragmatic Spasm,80,2
+Spleen Injury (Contusion/Laceration),5,82
+Kidney Contusion,30,14
+Humeral Fracture,20,60
+Biceps Tendonitis (Short Head),250,10
+Triceps Tendonitis,150,10
+Radius Fracture,70,42
+Ulna Fracture,60,42
+Forearm Compartment Syndrome (Chronic),100,5
+Bennett's Fracture (Thumb),40,35
+Boxer's Fracture (Metacarpal),60,28
+Gamekeeper's Thumb (UCL Sprain - Hand),80,21
+Swan Neck Deformity (Finger),30,10
+Boutonniere Deformity (Finger),40,10
+Trigger Finger (Hand/Finger),120,5
+Myositis Ossificans (Thigh),40,28
+Femoral Stress Fracture,30,42
+Tibial Plateau Fracture,10,82
+Fibular Head Fracture,50,21
+Deep Vein Thrombosis (DVT - Leg),2,60
+Peroneal Tendon Subluxation,60,21
+Tarsal Tunnel Syndrome,70,14
+Lisfranc Fracture (More Severe),30,42
+Hallux Rigidus (Big Toe Arthritis),80,10
+Posterior Tibial Tendon Rupture,20,50
+Peroneal Tendon Rupture (Lower Leg),30,40
+Dehydration (Severe),200,2
+Heat Exhaustion,150,3
+Heat Stroke,5,82
+Rhabdomyolysis,10,21
+Migraine (Severe - Recurring),100,3
+Vertigo,80,3
+Allergic Reaction (Severe),50,1
